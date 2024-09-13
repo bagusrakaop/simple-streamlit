@@ -1,5 +1,6 @@
 streamlit
 catboost
+scikit-learn
 pandas
 seaborn
 matplotlib
